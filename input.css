@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .radial-grad {
+    background: radial-gradient(#fff, #000);
+  }
+}
